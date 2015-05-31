@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dracula
+Comment=Dracula P2P Cryptocurrency
+Comment[fr]=Dracula, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Dracula, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Dracula-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Dracula;
+Categories=Office;
